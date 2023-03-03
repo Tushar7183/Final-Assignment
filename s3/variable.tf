@@ -4,4 +4,4 @@ variable "tags" {
 
 variable "bucket" {
      type = string
-}
+}  
